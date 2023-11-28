@@ -1,4 +1,4 @@
-TestDriverPath=c:\\chromedriver.exe
+TestDriverPath=c:\\chromedriver_.exe
 HomePageLink=https://mistore.com.tn/
 MaisonConnecteLink=https://mistore.com.tn/product-category/maison-connectee/
 ProduitLink=https://mistore.com.tn/product/xiaomi-smart-camera-c300/

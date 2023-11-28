@@ -32,11 +32,17 @@ public class MaisonConnecte {
 	}
 	
 	public void clickProductByName(String productName) {
+		try {
 		
 		for(WebElement product:productList) {
 			if(product.getText().contains(productName)) {
 				product.click();
 			}
 		}
+	
+	}catch(Exception e) {
+		
 	}
+	}	
+		
 }

@@ -31,32 +31,11 @@
     <scope>test</scope>
 </dependency>
 
-<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-picocontainer -->
-<dependency>
-    <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-picocontainer</artifactId>
-    <version>7.14.0</version>
-</dependency>
 
-<!-- https://mvnrepository.com/artifact/net.masterthought/cucumber-reporting -->
-<dependency>
-    <groupId>net.masterthought</groupId>
-    <artifactId>cucumber-reporting</artifactId>
-    <version>5.7.7</version>
-</dependency>
 
-<!-- https://mvnrepository.com/artifact/net.masterthought/maven-cucumber-reporting -->
-<dependency>
-    <groupId>net.masterthought</groupId>
-    <artifactId>maven-cucumber-reporting</artifactId>
-    <version>5.7.7</version>
-</dependency>
 
-  	<dependency>
-  		<groupId>Amazon</groupId>
-  		<artifactId>Amazon</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+
+  	
   	
   	
   	<dependency>
